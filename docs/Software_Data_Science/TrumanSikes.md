@@ -17,3 +17,11 @@
 **Key files / folders:** none created yet, I'm still learning on how to make a website
 
 ########
+
+**What works today:** I am still learning css, html, and javascript to create the website
+
+**What is a stub, placeholder or unfinished:** there is no file for the website yet
+
+**What is broken or untested:** there is no file for the website yet
+
+########
