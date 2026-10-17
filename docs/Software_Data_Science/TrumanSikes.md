@@ -25,3 +25,20 @@
 **What is broken or untested:** there is no file for the website yet
 
 ########
+
+### Milestone 2 (end of October): data application and meshing
+
+| Task                               | Owner        | Estimate    | Done? |
+| ---------------------------------- | ------------ | ----------- | ----- |
+| have the foundation for the wesite | Truman Sikes | by 10/24/26 | N     |
+| have the website print input info  | Truman Sikes | by 10/27/26 | N     |
+| have a user interface              | Truman Sikes | by 10/31/26 | N     |
+
+### Milestone 3 (before Thanksgiving): testing gauntlet
+
+have the website be able to display the information from the sensors
+
+### Stretch goal I'd like to take on
+
+
+A user interface beyond printing values. As this is mostly the task I have been given. 
