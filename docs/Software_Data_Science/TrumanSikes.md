@@ -42,3 +42,13 @@ have the website be able to display the information from the sensors
 
 
 A user interface beyond printing values. As this is mostly the task I have been given. 
+
+#######
+
+**I'm waiting on / depend on:** I am waiting on knowing how exactly we are going to be getting the data from the sensors and how to I am going to be getting the data from R.
+
+**Risks (what could go wrong in my area):** getting too much info, having too mush info loaded in, or the data into R to the wesite taking too long. 
+
+**Open questions for leads / other teams:** How is the data going to be read into R and then from there how is the data going to be formatted post R. 
+
+**Things I want to learn on this project:** How to make a website, also I would enjoy learning how the communication of the sensors and other programs is going to work. 
